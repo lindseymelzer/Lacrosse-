@@ -1,0 +1,52 @@
+body {
+    background-color:  #99ceff;
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+h1 {
+    color:  #666666;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+}
+
+h2 {
+    color:  #666666;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 27px;
+    
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 23px;
+    color: white;
+    line-height:1.3;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: lightpink;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
